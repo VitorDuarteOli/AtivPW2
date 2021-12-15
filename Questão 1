@@ -1,0 +1,3 @@
+RESPOSTA: Letra A
+<?php
+   <a href="ident_id.php?nome=Maria&idade=18&altura=1.7">Passar Valores</a>
